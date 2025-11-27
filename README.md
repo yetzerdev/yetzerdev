@@ -7,7 +7,7 @@
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=java,py" height="60" alt="JAVA Python" />
 <img width="12" />
-<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=mysql, springboot" height="60" alt="MySQL SPRINGBOOT" />
 <img width="12" />
 </div>
 
